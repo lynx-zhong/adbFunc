@@ -1,0 +1,1 @@
+adb logcat -b main > ./aaa.log
